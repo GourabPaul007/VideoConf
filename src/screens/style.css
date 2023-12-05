@@ -1,0 +1,7 @@
+.gradient-background {
+	/* background: linear-gradient(45deg, #8e44ad 30%, #f39c12 50%, #e74c3c 70%); */
+	background: linear-gradient(to right, purple, orange);
+	/* You can adjust the angle and colors as needed */
+	height: 100vh;
+	/* Set the height to fill the entire viewport or adjust it based on your design */
+}
